@@ -41,7 +41,7 @@ nav ul li {
 }
 
 nav ul li.active a{
-	color:#FF6760;
+	color:#5beb62;
 }
 
 nav ul li a {
@@ -74,11 +74,11 @@ header h2 {
 }
 
 header h2 span {
-	color: #EB615B;
+	color: #5beb62;
 }
 
 header a {
-	background-color: #FF6760;
+	background-color: #5beb62;
 	padding:15px 20px;
 	text-transform: uppercase;
 	border:none;
