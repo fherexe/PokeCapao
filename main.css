@@ -80,13 +80,13 @@ header h2 span {
 header a {
 	background-color: #5beb62;
 	padding:15px 20px;
-	text-transform: uppercase;
 	border:none;
 	border-radius: 10px;
 	margin: 10px 0 75px;
 	display: inline-block;
 	color: #fff;
 	text-decoration: none;
+	font-weight: bold;
 }
 
 .features {
